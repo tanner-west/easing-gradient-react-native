@@ -1,0 +1,3 @@
+# Exploring Eased Gradients with React Native
+
+I built this app to explore eased gradients with React Native. I first learned about concept of creating gradients with easing curves from [Andreas Larsen's article on CSS Tricks](https://css-tricks.com/easing-linear-gradients/). This repo borrows some of the code from Larsen's [Easing Coordinates](https://github.com/larsenwork/easing-coordinates) utility library.
